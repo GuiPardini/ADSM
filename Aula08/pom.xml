@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.usjt</groupId>
-	<artifactId>SpringBootLab</artifactId>
+	<artifactId>Aula08</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBootLab</name>
-	<description>SpringBootLab</description>
+	<name>Aula08</name>
+	<description>Aula08</description>
 
 	<properties>
 		<java.version>1.8</java.version>
